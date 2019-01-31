@@ -6,4 +6,4 @@ A Contact Manager Single Page App to add, update and delete contacts using React
 
 2) <code> npm install </code>
 
-3) <code> npm run start
+3) <code> npm  start
